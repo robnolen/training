@@ -42,7 +42,11 @@ A place to run your cloud native applications, with varying levels of assumption
 
 ---
 
+<<<<<<< HEAD
 ![inline 125%](images/pcf.png)
+=======
+![](https://blog.vce.com/wp-content/uploads/2016/03/WP-Pivotal-Cloud-Foundry-620x410.png)
+>>>>>>> 2b00312d2f053026291b64460967360487d89002
 
 ---
 
@@ -69,7 +73,11 @@ A place to run your cloud native applications, with varying levels of assumption
 
 ---
 
+<<<<<<< HEAD
 ![original 100%](https://pr.netflix.com/customcontentgroup/667/Netflix_Web_Logo.png)
+=======
+background-image: url(https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg)
+>>>>>>> 2b00312d2f053026291b64460967360487d89002
 
 ---
 
