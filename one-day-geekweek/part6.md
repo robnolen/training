@@ -44,7 +44,7 @@ A Cloud Native Platform for people who want to get stuff done.
  
 ---
  
-![](https://github.com/cloudfoundry/docs-cloudfoundry-concepts/blob/master/images/diego/diego-overview.png?raw=true)
+![original 150%](https://github.com/cloudfoundry/docs-cloudfoundry-concepts/blob/master/images/diego/diego-overview.png?raw=true)
  
 ---
 

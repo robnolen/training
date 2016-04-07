@@ -12,7 +12,12 @@ A place to run your cloud native applications, with varying levels of assumption
 
 ##"Unstructured" 
 
-* Ultra-flexible* Max Opportunity For Optimization* For Companies Where Platform = Core Competency* Common In Saas Startups Where There Are Relatively Few Apps---
+* Ultra-flexible
+* Max Opportunity For Optimization
+* For Companies Where Platform = Core Competency
+* Common In Saas Startups Where There Are Relatively Few Apps
+
+---
 
 ---
 
@@ -26,15 +31,18 @@ A place to run your cloud native applications, with varying levels of assumption
 
 ##"Prescriptive" / "Structured"
 
-* Opinionated* Fastest & Reliable Outcome* Largest Community Of Talent* Common In Enterprise Where There Are Many Apps
+* Opinionated
+* Fastest & Reliable Outcome
+* Largest Community Of Talent
+* Common In Enterprise Where There Are Many Apps
 
 ---
 
-![](images/structurecomponents.png)
+![inline 125%](images/structurecomponents.png)
 
 ---
 
-![](images/pcf.png)
+![inline 125%](images/pcf.png)
 
 ---
 
@@ -57,20 +65,19 @@ A place to run your cloud native applications, with varying levels of assumption
 
 ---
 
-background-image: url(http://thelibertarianrepublic.com/wp-content/uploads/2015/09/Uber-Logo.jpg)
+![original 100%](http://thelibertarianrepublic.com/wp-content/uploads/2015/09/Uber-Logo.jpg)
 
 ---
 
-background-image: url(https://pr.netflix.com/customcontentgroup/667/Netflix_Web_Logo.png)
+![original 100%](https://pr.netflix.com/customcontentgroup/667/Netflix_Web_Logo.png)
 
 ---
 
 #Structured
 
 ---
-
-background-image: url(http://www.mprisk.org/UserFiles/Servers/Server_84508/Image/Logos/Humana%20hum_mdm_rgb_pos.png)
+![original 100%](http://www.mprisk.org/UserFiles/Servers/Server_84508/Image/Logos/Humana%20hum_mdm_rgb_pos.png)
 
 ---
 
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Philips_logo_new.svg/2000px-Philips_logo_new.svg.png)
+![original 50%](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Philips_logo_new.svg/2000px-Philips_logo_new.svg.png)
